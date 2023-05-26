@@ -1,0 +1,25 @@
+soal1
+	- apakah nol termasuk bilangan cacah?
+soal2
+	- includes javascript
+	- global string di javascript
+soal3
+	- regex check number in string javascript
+	- regex match uppercase string javascript
+soal4
+	- sorting array in javascript
+soal5
+	- best practice rekursif javascript
+
+
+
+Soal Backend
+soal1 : 
+	- how to create table using index sql
+soal2 : 
+	- count multiple value to one field sql
+	- We3school
+Soal3 :
+	- count name in sql
+Soal4 : 
+	- query sql avg where user have more data
