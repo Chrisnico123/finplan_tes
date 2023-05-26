@@ -1,3 +1,10 @@
+## Contact
+
+```
+    Name : Chrisnico Alexander Hutapea
+    Email : hutapeniko@gmail.com
+```
+
 ## Logika Test
 
 ### How to run?
